@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrackAndroidNew</string>
+    <string name="action_settings">Settings</string>
+    <plurals name="comments">
+        <item quantity="one">%d comment</item>
+        <item quantity="other">%d comments</item>
+    </plurals>
+</resources>
